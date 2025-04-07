@@ -1,4 +1,4 @@
-# 🧩 Selenium Test Otomasyon Projesi
+# 🧩 Selenium SauceDemo e-ticaret sitesi üzerinde Test Otomasyon Projesi
 
 Bu proje, **Selenium WebDriver** kullanılarak geliştirilmiş bir test otomasyon projesidir.  
 SauceDemo e-ticaret sitesi üzerinde login işlemi ve sepet kontrolü gibi temel işlevleri test etmek amacıyla hazırlanmıştır.
@@ -34,12 +34,12 @@ src
 
 1. Projeyi klonlayın:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/FurkanBulbul/selenium-sauce-automation.git
    ```
 
 2. Proje dizinine geçin:
    ```bash
-   cd sauce-automation
+   cd selenium-sauce-automation
    ```
 
 3. Maven bağımlılıklarını indirin:
@@ -63,11 +63,6 @@ src
 - [ ] Allure Report ile detaylı raporlama
 - [ ] Daha fazla senaryo ekleme (ürün ekleme, checkout vb.)
 - [ ] CI/CD entegrasyonu (GitHub Actions, Jenkins)
-
-## 👨‍💻 Katkıda Bulunmak
-
-Pull request'ler her zaman memnuniyetle karşılanır!  
-Yeni özellikler eklemek veya hataları düzeltmek için katkıda bulunabilirsiniz.
 
 ## 📃 Lisans
 
